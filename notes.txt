@@ -1,0 +1,3 @@
+https://www.youtube.com/channel/UC5ZAemhQUQuNqW3c9Jkw8ug/videos
+
+document.querySelectorAll('a[href*=watch\\?v]')
