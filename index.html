@@ -1,32 +1,48 @@
 <!doctype html>
+<html>
 <head>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="js.js"></script>
 
 <style>
+html {
+font-family: trebuchet ms;
+}
 html, body {margin:0; padding:0;}
-iframe {  min-height: 300px; width: 100%; }
-body { display:flex; flex-direction: column; flex-wrap: wrap;}
-.vid { width: 25%; }
-.nav { width: 100%; }
+body {
+display: flex;
+flex-wrap:wrap;
+}
+.nav { width: 150px; height: 100vh; overflow: auto;}
+.nav a { display: block; text-decoration: none; padding: 0.5em 1em; }
+.nav a:nth-child(odd){ background: #eee; }
+.nav a:hover {background: gold;}
+
+.vid {
+	background: #666;
+	flex:1;
+	padding: 2em;
+	color: #fff;
+}
+
+.vid iframe {
+	width: 50%;
+	height: 80%;
+}
 </style>
 </head>
 <body>
 
-<!-- <iframe src="urls.txt"></iframe> -->
+<div class="nav">
 
+</div>
 
 <div class="vid">
 	<span class="vid-name"> - </span> 	<span class="vid-id"> - </span> 
 	<br>
-	<iframe src="//www.youtube.com/embed/'.$videoItem['id'].'?rel=0&amp;modestbranding=1&amp;controls=1&amp;autohide=1&amp;showinfo=1" allowfullscreen="" frameborder="0"></iframe>
+	<iframe class="vid-frame" src="//www.youtube.com/embed/abc123xyz?rel=0&amp;modestbranding=1&amp;controls=1&amp;autohide=1&amp;showinfo=1" allowfullscreen="" frameborder="0"></iframe>
 </div>
-
-<div class="nav">
-<form>
-<input type="number" name="page" value="<?=$chunky?>"><input type="submit">
-</form>
-</div>
-
 
 </body>
+</html>

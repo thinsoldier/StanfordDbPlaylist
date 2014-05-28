@@ -1,118 +1,119 @@
-0101	D-k-h0GuFmE
-0201	spQ7IFksP9g
-0202	nf1-h2GpEGc
-0301full	x8kMELlNaYg
-0301p1	5hZcdz5fSUI
-0301p2	aR9aO4o52Eg
-0302	-Wft5dD-1ig
-0303	YkAZlQgPXG4
-0401full	JwSWIC6fJ5Q
-0401p1	lutlvfe8YHU
-0401p2	3ukOBr0jzL8
-0402	TjZLdJvm3to
-0501	tii7xcFilOA
-0501p1	cVQUvZh64Y8
-0501p2	bVg442ixI6k
-0501p3	SYIHyXJG29M
-0501p4	qdHqidsGfNU
-0502	GkBf2dZAES0
-0502p1	r_h9yBnNh0U
-0502p2	TroKfazVhwM
-0502p3	VXRhir7GQpQ
-0601	wxFmiRwXcQY
-0602	4IxirOdp6bw
-0603	thcqxTlSAmw
-0604	IJPXosPGLTU
-0605	8OCAxk1Rybg
-0605-5 not sure where this fits	oXd4mTA86MI
-0606	428B57dOxcE
-0607	qdR2z_Ws56k
-0608	qKNb8YQYTZg
-0701full	DFnAakJ4FDg
-0701p1	9asirG4WqLE
-0701p2	SSio_jhAmzg
-0701p3	0wzEQFR2B_s
-0701p4	eVa98I9CALs
-0702full	Mkm1h5AtsXI
-0702p1	bycjnyo6x1Y
-0702p2	GFyEBCdkzbg
-0702p3	yMVUkaE436c
-0702p4	BKHCf16-8dU
-0702p5	6akMaOrUdcI
-0703full	mfVCesoMaGA
-0703p1	7L0mOMG_2ZE
-0703p2	sciXmZFvJgg
-0703p3	MXjCExmMsaI
-0704full	698GsCsmXIk
-0704p1	A6VGW1_1UHA
-0704p2	07iWNlfmLcg
-0704p3	Jfy0gNNg2qk
-0704p4	e8aoiUL3ALg
-0705	mYEc-5-C4bo
-0801	qY2Ezw786ko
-0802	6Zvw3kmJ0KA
-0803	vt3tWWmTEdI
-0804	SQNKrIcIuFk
-0805	hOR132CodOU
-0901full	LmS4Y99fNaQ
-0901p1	geQ9F8JsEM0
-0901p2	5Urm5IMcdYk
-0901p3	hSJlOlSquLE
-0902full	X89KLfrNOPo
-0902p1	dNzjvW-SwBU
-0902p2	RKoWaioDTQw
-0902p3	sTJ-q0kVXzU
-1001full	WrKAlmGiipE
-1001p1	Y7Qlc7f_u0o
-1001p2	HSnwW5Punm0
-1101	kaI9rQ6e7xQ
-1102 same as p1	VU5LoHX63Zs
-1102p1	EGeDJzdh--o
-1102p2	Efd1lpZCWCM
-1103full	LDhop4wbhUM
-1103p1	zFeSglmrY78
-1103p2	eSKr7URoVTM
-1103p3	8IBQdb8IwBA
-1104	s9iRD-zrxS0
-1105	i3xwZw5VRMs
-1106	GSYhvQVI_dE
-1201	FA85kHsJss4
-1202full	aNCpEC0-VVs
-1202p1	O2wYl9UHFNc
-1202p2	r6ALmAXRHQM
-1202p3	5-dlz0YimR4
-1203full	kTxxh-XPUK4
-1203p1	uLsy7BelTJ4
-1203p2	5pyIKGLqQLY
-1203p3	jFiUUEPNVa8
-1203p4	iKGbo9ifTyw
-1301	x81SX-zqZIc
-1302full	DTL1tx1WgB4
-1302p1	oqvh6dwsIlA
-1302p2	cda1c2SO_9I
-1303	7PR6Z0cSc3Q
-1304	ES_vPbPI7Jw
-1305full	NRl-Fh1Q7fM
-1305p1	Dz4djo4vwHA
-1305p2	y7NRvF4C-f8
-1305p3	dVnWxS2T5zY
-1401full	0JMmifkP4K8
-1401p1	4kFaxCGpvzE
-1401p2	pel2wJFi-v8
-1401p3	JDEuWknPPcM
-1401p4	0nqd1XzhKMk
-1501	Yceqbp_DKbA
-1502	uU7JBM3cAWU
-1503full	nsE4umE8r_8
-1503p1	Pqw61QtOk24
-1503p2	n5MopEcWPfI
-1601full	ZS0c8El252s
-1601p1	jcl0unn73RY
-1601p2	TZbPo9nfsXw
-1602	cCZquWgw8IM
-1701	7WsOhkwyY28
-1702-nosql-overview	JhBcTX4U2hs
-z DBClass Office Hours	b1Q4rccHiZo
-z DBClass Office Hours	tBNiU32zs2Y
-z Final Exam Review	GJdbWSJGheo
-z Midterm Exam Solutions	npxZ-1yqqrM
+[
+{"name":"0101","id":"D-k-h0GuFmE"},
+{"name":"0201","id":"spQ7IFksP9g"},
+{"name":"0202","id":"nf1-h2GpEGc"},
+{"name":"0301full","id":"x8kMELlNaYg"},
+{"name":"0301p1","id":"5hZcdz5fSUI"},
+{"name":"0301p2","id":"aR9aO4o52Eg"},
+{"name":"0302","id":"-Wft5dD-1ig"},
+{"name":"0303","id":"YkAZlQgPXG4"},
+{"name":"0401full","id":"JwSWIC6fJ5Q"},
+{"name":"0401p1","id":"lutlvfe8YHU"},
+{"name":"0401p2","id":"3ukOBr0jzL8"},
+{"name":"0402","id":"TjZLdJvm3to"},
+{"name":"0501","id":"tii7xcFilOA"},
+{"name":"0501p1","id":"cVQUvZh64Y8"},
+{"name":"0501p2","id":"bVg442ixI6k"},
+{"name":"0501p3","id":"SYIHyXJG29M"},
+{"name":"0501p4","id":"qdHqidsGfNU"},
+{"name":"0502","id":"GkBf2dZAES0"},
+{"name":"0502p1","id":"r_h9yBnNh0U"},
+{"name":"0502p2","id":"TroKfazVhwM"},
+{"name":"0502p3","id":"VXRhir7GQpQ"},
+{"name":"0601","id":"wxFmiRwXcQY"},
+{"name":"0602","id":"4IxirOdp6bw"},
+{"name":"0603","id":"thcqxTlSAmw"},
+{"name":"0604","id":"IJPXosPGLTU"},
+{"name":"0605","id":"8OCAxk1Rybg"},
+{"name":"0605-5 not sure where this fits","id":"oXd4mTA86MI"},
+{"name":"0606","id":"428B57dOxcE"},
+{"name":"0607","id":"qdR2z_Ws56k"},
+{"name":"0608","id":"qKNb8YQYTZg"},
+{"name":"0701full","id":"DFnAakJ4FDg"},
+{"name":"0701p1","id":"9asirG4WqLE"},
+{"name":"0701p2","id":"SSio_jhAmzg"},
+{"name":"0701p3","id":"0wzEQFR2B_s"},
+{"name":"0701p4","id":"eVa98I9CALs"},
+{"name":"0702full","id":"Mkm1h5AtsXI"},
+{"name":"0702p1","id":"bycjnyo6x1Y"},
+{"name":"0702p2","id":"GFyEBCdkzbg"},
+{"name":"0702p3","id":"yMVUkaE436c"},
+{"name":"0702p4","id":"BKHCf16-8dU"},
+{"name":"0702p5","id":"6akMaOrUdcI"},
+{"name":"0703full","id":"mfVCesoMaGA"},
+{"name":"0703p1","id":"7L0mOMG_2ZE"},
+{"name":"0703p2","id":"sciXmZFvJgg"},
+{"name":"0703p3","id":"MXjCExmMsaI"},
+{"name":"0704full","id":"698GsCsmXIk"},
+{"name":"0704p1","id":"A6VGW1_1UHA"},
+{"name":"0704p2","id":"07iWNlfmLcg"},
+{"name":"0704p3","id":"Jfy0gNNg2qk"},
+{"name":"0704p4","id":"e8aoiUL3ALg"},
+{"name":"0705","id":"mYEc-5-C4bo"},
+{"name":"0801","id":"qY2Ezw786ko"},
+{"name":"0802","id":"6Zvw3kmJ0KA"},
+{"name":"0803","id":"vt3tWWmTEdI"},
+{"name":"0804","id":"SQNKrIcIuFk"},
+{"name":"0805","id":"hOR132CodOU"},
+{"name":"0901full","id":"LmS4Y99fNaQ"},
+{"name":"0901p1","id":"geQ9F8JsEM0"},
+{"name":"0901p2","id":"5Urm5IMcdYk"},
+{"name":"0901p3","id":"hSJlOlSquLE"},
+{"name":"0902full","id":"X89KLfrNOPo"},
+{"name":"0902p1","id":"dNzjvW-SwBU"},
+{"name":"0902p2","id":"RKoWaioDTQw"},
+{"name":"0902p3","id":"sTJ-q0kVXzU"},
+{"name":"1001full","id":"WrKAlmGiipE"},
+{"name":"1001p1","id":"Y7Qlc7f_u0o"},
+{"name":"1001p2","id":"HSnwW5Punm0"},
+{"name":"1101","id":"kaI9rQ6e7xQ"},
+{"name":"1102 same as p1","id":"VU5LoHX63Zs"},
+{"name":"1102p1","id":"EGeDJzdh--o"},
+{"name":"1102p2","id":"Efd1lpZCWCM"},
+{"name":"1103full","id":"LDhop4wbhUM"},
+{"name":"1103p1","id":"zFeSglmrY78"},
+{"name":"1103p2","id":"eSKr7URoVTM"},
+{"name":"1103p3","id":"8IBQdb8IwBA"},
+{"name":"1104","id":"s9iRD-zrxS0"},
+{"name":"1105","id":"i3xwZw5VRMs"},
+{"name":"1106","id":"GSYhvQVI_dE"},
+{"name":"1201","id":"FA85kHsJss4"},
+{"name":"1202full","id":"aNCpEC0-VVs"},
+{"name":"1202p1","id":"O2wYl9UHFNc"},
+{"name":"1202p2","id":"r6ALmAXRHQM"},
+{"name":"1202p3","id":"5-dlz0YimR4"},
+{"name":"1203full","id":"kTxxh-XPUK4"},
+{"name":"1203p1","id":"uLsy7BelTJ4"},
+{"name":"1203p2","id":"5pyIKGLqQLY"},
+{"name":"1203p3","id":"jFiUUEPNVa8"},
+{"name":"1203p4","id":"iKGbo9ifTyw"},
+{"name":"1301","id":"x81SX-zqZIc"},
+{"name":"1302full","id":"DTL1tx1WgB4"},
+{"name":"1302p1","id":"oqvh6dwsIlA"},
+{"name":"1302p2","id":"cda1c2SO_9I"},
+{"name":"1303","id":"7PR6Z0cSc3Q"},
+{"name":"1304","id":"ES_vPbPI7Jw"},
+{"name":"1305full","id":"NRl-Fh1Q7fM"},
+{"name":"1305p1","id":"Dz4djo4vwHA"},
+{"name":"1305p2","id":"y7NRvF4C-f8"},
+{"name":"1305p3","id":"dVnWxS2T5zY"},
+{"name":"1401full","id":"0JMmifkP4K8"},
+{"name":"1401p1","id":"4kFaxCGpvzE"},
+{"name":"1401p2","id":"pel2wJFi-v8"},
+{"name":"1401p3","id":"JDEuWknPPcM"},
+{"name":"1401p4","id":"0nqd1XzhKMk"},
+{"name":"1501","id":"Yceqbp_DKbA"},
+{"name":"1502","id":"uU7JBM3cAWU"},
+{"name":"1503full","id":"nsE4umE8r_8"},
+{"name":"1503p1","id":"Pqw61QtOk24"},
+{"name":"1503p2","id":"n5MopEcWPfI"},
+{"name":"1601full","id":"ZS0c8El252s"},
+{"name":"1601p1","id":"jcl0unn73RY"},
+{"name":"1601p2","id":"TZbPo9nfsXw"},
+{"name":"1602","id":"cCZquWgw8IM"},
+{"name":"1701","id":"7WsOhkwyY28"},
+{"name":"1702-nosql-overview","id":"JhBcTX4U2hs"},
+{"name":"z DBClass Office Hours","id":"b1Q4rccHiZo"},
+{"name":"z DBClass Office Hours","id":"tBNiU32zs2Y"},
+{"name":"z Final Exam Review","id":"GJdbWSJGheo"},
+{"name":"z Midterm Exam Solutions","id":"npxZ-1yqqrM"}]
