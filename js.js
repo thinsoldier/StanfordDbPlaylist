@@ -15,7 +15,8 @@ window.app.items = items;
 		$('.nav').append( anchor );
 	}
 	
-	$('.nav a').click( loadVideo );
+	$('.nav a').click( loadVideo )
+		.first().click();
 }
 
 
