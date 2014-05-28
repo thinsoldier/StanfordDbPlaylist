@@ -1,0 +1,1 @@
+This branch will try to use only JS and not rely on any server side php.
