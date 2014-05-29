@@ -29,6 +29,7 @@ function loadVideo(click){
 
 	if( found )
 	{
+	// @todo replace the first space in the name with a break tag
 		$('.vid-name').text(found.name); 
 		$('.vid-id').text(found.id);
 		var url = $('.vid-frame').attr('src');
